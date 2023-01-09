@@ -1,0 +1,61 @@
+﻿@page
+@model IndexModel
+@{
+}
+<head>
+    <link rel="stylesheet" href="~/css/home.css" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Marciu´s Magazine - Home</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/Index">Início</a></li>
+                <li>
+                    <a href="#">Vídeos </a>
+                    <ul class="dropdown">
+                        @foreach (var item in Model.listaVideos)
+                        {
+                            <li><a href="#">@item.TemasDep</a></li>
+                        }
+                    </ul>
+                </li>
+                <li><a href="/Settings/Painel">@Model.DefineDep</a></li>
+            </ul>
+           @* <ul class="nav-list">
+                <li><a href="/Index">Início</a></li>
+                <li>
+                    <a>Vídeos</a>
+                    <ul class="dropdown">
+
+                       
+                    </ul>
+                </li>
+                <li><a href="/Settings/Painel">@Model.DefineDep</a></li>
+            </ul>*@
+            <partial name="_LoginStatusPartial" />
+        </nav>
+    </header>
+
+    @foreach (var item in Model.listaVideos)
+    {
+        <div class="cabecalho">
+            <h1>@item.TemasDep</h1>
+
+            <div class="container">
+
+                @foreach (var itemX in item.Videos)
+                {
+                    <div class="videos">
+                        <h2>@itemX.TituloVideo</h2>
+                        <video src="@itemX.Url" controls="controls" />
+                    </div>
+                }
+
+            </div>
+        </div>
+    }
+
+</body>

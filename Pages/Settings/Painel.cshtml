@@ -1,0 +1,137 @@
+﻿@page
+@model SiteVideos.Pages.Settings.PainelModel
+@{
+}
+<head>
+    <link rel="stylesheet" href="~/css/painel.css" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Marciu´s Magazine - Configurações</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <a class="logo"></a>
+            <ul class="nav-list">
+                <li><a href="/Index">Início</a></li>
+                <li><a href="/Settings/Painel">Configurações</a></li>
+            </ul>
+            <partial name="_LoginStatusPartial" />
+        </nav>
+    </header>
+    <section class="area-config">
+        <div class="config">
+            <form method="post" enctype="multipart/form-data">
+                <div class="painel-lista">
+                    <h1 class="display-4">Adicionar vídeo</h1>
+                    <label>Departamento:</label>
+                    <Select asp-for="configuracao.departamento" class="form-control" onchange="departamentoSelecionado()" id="dpDep">
+                        <option value="0">Selecione o departamento...</option>
+
+                        @foreach (var departamento in Model.painelModels)
+                        {
+                            <option value="@departamento.pastas">@departamento.pastas</option>
+                        }
+                    </Select>
+                    <br />
+                    <div class="btnAdd">
+                        <label>Temas:</label>
+                        <input type="button" value="Novo" id="btnNovo" name="btnNewSub" onclick="Novo()" />
+                    </div>
+                    <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+                    <div class="md-3">
+                        <select asp-for="configuracao.subPasta" class="form-control" id="dir" onchange="diretorioSelecionado()">
+                            <option selected="selected" style="display:none">Selecione o tema...</option>
+                        </select>
+                    </div>
+                    <br />
+
+                    <div class="adicionaTema">
+                        <input type="text" id="txbAdd" class="textContainer" placeholder="Ex: PIX" asp-for="configuracao.newSubPasta" />
+                    </div>
+
+                    <label>Título:</label>
+                    <div class="md-3">
+                        <input type="text" class="textContainer" placeholder="Ex: 01 - Pix recebimento" asp-for="configuracao.Titulo" id="txbTitulo" />
+                    </div>
+                    <br />
+
+                    <label>Arquivo:</label>
+                    <div class="upFile">
+                        <input type="file" accept="video/mp4,video/x-m4v,video/*" asp-for="configuracao.Arquivo" />
+                    </div>
+                    <br />
+
+                    <div class="btnSalvaConfig">
+                        <input type="submit" class="btn btn-primary" value="Salvar" name="SalvarConfig" onclick="limpaCampos()" />
+                    </div>
+                    <br />
+                </div>
+            </form>
+
+        </div>
+    </section>
+
+    <script>
+        var myArray = [];
+
+        @foreach (var item in Model.painelModels)
+        {
+            @:var i = { "nome": "@item.pastas", "diretorios": [] }
+
+            foreach (var dir in item.subPastas)
+            {
+                @:i.diretorios.push("@dir");
+            }
+
+            @:myArray.push(i)
+        }
+
+            function diretorioSelecionado() {
+                var cb = document.getElementById('dir');
+                var value = cb.value;
+                var text = cb.options[cb.selectedIndex].text;
+                document.getElementById("diretorio_id").value = text;
+            }
+
+        function departamentoSelecionado() {
+            var diretorio = document.getElementById("dir");
+            diretorio.innerHTML = "<option selected='selected' style='display:none'>Selecione o departamento</option>";
+            var cb = document.getElementById('dpDep');
+            var diretorioSelecionado = cb.value;
+            var selecionado = myArray.find(x => x.nome == cb.value);
+            if (selecionado) {
+                for (i = 0; i < selecionado.diretorios.length; i++) {
+                    diretorio.insertAdjacentHTML('beforeend',
+                        `<option value='${selecionado.diretorios[i]}'>${selecionado.diretorios[i]}</option>`
+                    );
+                }
+
+                document.getElementById("departamento_id").value = selecionado.nome;
+            }
+        }
+
+        function Novo() {
+
+            if (document.getElementById("btnNovo").value == "Novo") {
+                document.getElementById("btnNovo").value = "Salvar";
+                document.getElementById("txbAdd").style.visibility = "visible";
+                document.getElementById("dir").style.visibility = "collapse";
+
+            } else {
+                document.getElementById("btnNovo").value = "Novo";
+                document.getElementById("btnNovo").type = "submit";
+                document.getElementById("txbAdd").style.visibility = "collapse";
+                document.getElementById("dir").style.visibility = "visible";
+            }
+        }
+
+        function limpaCampos(){
+            document.getElementById("txbTitulo").value == null;
+            txbTitulo.text = null;
+        }
+
+    </script>
+</body>
+
+

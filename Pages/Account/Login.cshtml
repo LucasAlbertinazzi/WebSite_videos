@@ -1,0 +1,44 @@
+﻿@page
+@model SiteVideos.Pages.Account.LoginModel
+@{
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/login.css" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Marciu´s Magazine - Login</title>
+</head>
+<body>
+    <section class="area-login">
+        <div class="login">
+            <div>
+                <img src="~/imagens/logo_sistema.png" />
+            </div>
+            <form method="post">
+                <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+
+                <input type="text" asp-for="credential.UserName" class="form-control" autofocus placeholder="Usuário" />
+
+                <span class="text-danger" asp-validation-for="credential.UserName" style="margin-top: 4px; margin-bottom:-12px"></span>
+
+                <input type="password" asp-for="credential.Password" class="form-control" placeholder="Senha" />
+
+                <span class="text-danger" asp-validation-for="credential.Password" style="margin-top: 4px;margin-bottom:-12px"></span>
+
+                <div class="ck">
+                    <label class="container">
+                        <input type="checkbox" checked="checked" asp-for="credential.RememberMe">
+                        <span class="checkmark"></span>
+                    </label>
+                    <div class="round">
+                        <label asp-for="credential.RememberMe"></label>
+                    </div>
+                </div>
+
+
+                <input type="submit" class="btn btn-primary" value="ENTRAR" />
+            </form>
+        </div>
+    </section>
+</body>
