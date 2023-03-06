@@ -666,11 +666,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Sites\\SiteVideos\\SiteVideos.csproj",
+      "projectUniqueName": "D:\\Novo\\WebSite_videos\\SiteVideos.csproj",
       "projectName": "SiteVideos",
-      "projectPath": "E:\\Sites\\SiteVideos\\SiteVideos.csproj",
+      "projectPath": "D:\\Novo\\WebSite_videos\\SiteVideos.csproj",
       "packagesPath": "C:\\Users\\Lucas.albertinazzi.TI-01\\.nuget\\packages\\",
-      "outputPath": "E:\\Sites\\SiteVideos\\obj\\",
+      "outputPath": "D:\\Novo\\WebSite_videos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -736,7 +736,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

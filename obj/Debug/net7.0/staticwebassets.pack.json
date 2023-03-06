@@ -1,551 +1,551 @@
 {
   "Files": [
     {
-      "Id": "E:\\Sites\\SiteVideos\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SiteVideos.bundle.scp.css",
+      "Id": "D:\\Novo\\WebSite_videos\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SiteVideos.bundle.scp.css",
       "PackagePath": "staticwebassets\\SiteVideos.bundle.scp.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\css\\home.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\css\\home.css",
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\css\\login.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\css\\painel.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\css\\painel.css",
       "PackagePath": "staticwebassets\\css\\painel.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\css\\site.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\favicon.ico",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\imagens\\logo_sistema.png",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\imagens\\logo_sistema.png",
       "PackagePath": "staticwebassets\\imagens\\logo_sistema.png"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\js\\site.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\ASSISTENCIA TECNICA\\Protocolo\\01 - Abertura do Protocolo.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\ASSISTENCIA TECNICA\\Protocolo\\01 - Abertura do Protocolo.mp4",
       "PackagePath": "staticwebassets\\videos\\ASSISTENCIA TECNICA\\Protocolo\\01 - Abertura do Protocolo.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\ASSISTENCIA TECNICA\\Protocolo\\02 - Protocolo Loja 21.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\ASSISTENCIA TECNICA\\Protocolo\\02 - Protocolo Loja 21.mp4",
       "PackagePath": "staticwebassets\\videos\\ASSISTENCIA TECNICA\\Protocolo\\02 - Protocolo Loja 21.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\ASSISTENCIA TECNICA\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\ASSISTENCIA TECNICA\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4",
       "PackagePath": "staticwebassets\\videos\\ASSISTENCIA TECNICA\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\ASSISTENCIA TECNICA\\Protocolo\\04 - Protocolo  Loja 22.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\ASSISTENCIA TECNICA\\Protocolo\\04 - Protocolo  Loja 22.mp4",
       "PackagePath": "staticwebassets\\videos\\ASSISTENCIA TECNICA\\Protocolo\\04 - Protocolo  Loja 22.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\ASSISTENCIA TECNICA\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\ASSISTENCIA TECNICA\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4",
       "PackagePath": "staticwebassets\\videos\\ASSISTENCIA TECNICA\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\AUDITORIA\\Protocolo\\01 - Abertura do Protocolo.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\AUDITORIA\\Protocolo\\01 - Abertura do Protocolo.mp4",
       "PackagePath": "staticwebassets\\videos\\AUDITORIA\\Protocolo\\01 - Abertura do Protocolo.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\AUDITORIA\\Protocolo\\02 - Protocolo Loja 21.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\AUDITORIA\\Protocolo\\02 - Protocolo Loja 21.mp4",
       "PackagePath": "staticwebassets\\videos\\AUDITORIA\\Protocolo\\02 - Protocolo Loja 21.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\AUDITORIA\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\AUDITORIA\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4",
       "PackagePath": "staticwebassets\\videos\\AUDITORIA\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\AUDITORIA\\Protocolo\\04 - Protocolo  Loja 22.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\AUDITORIA\\Protocolo\\04 - Protocolo  Loja 22.mp4",
       "PackagePath": "staticwebassets\\videos\\AUDITORIA\\Protocolo\\04 - Protocolo  Loja 22.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\AUDITORIA\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\AUDITORIA\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4",
       "PackagePath": "staticwebassets\\videos\\AUDITORIA\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Caixa\\1- Abertura de Caixa.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Caixa\\1- Abertura de Caixa.mp4",
       "PackagePath": "staticwebassets\\videos\\CREDIARIO E CAIXA\\Caixa\\1- Abertura de Caixa.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Caixa\\2- Recebimento de compras.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Caixa\\2- Recebimento de compras.mp4",
       "PackagePath": "staticwebassets\\videos\\CREDIARIO E CAIXA\\Caixa\\2- Recebimento de compras.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Caixa\\3- Recebimento PIX.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Caixa\\3- Recebimento PIX.mp4",
       "PackagePath": "staticwebassets\\videos\\CREDIARIO E CAIXA\\Caixa\\3- Recebimento PIX.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Caixa\\4- Fechamento caixas.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Caixa\\4- Fechamento caixas.mp4",
       "PackagePath": "staticwebassets\\videos\\CREDIARIO E CAIXA\\Caixa\\4- Fechamento caixas.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Malote\\01.Malote - Criando malote.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Malote\\01.Malote - Criando malote.mp4",
       "PackagePath": "staticwebassets\\videos\\CREDIARIO E CAIXA\\Malote\\01.Malote - Criando malote.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Malote\\02.Malote - Inserindo Itens.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Malote\\02.Malote - Inserindo Itens.mp4",
       "PackagePath": "staticwebassets\\videos\\CREDIARIO E CAIXA\\Malote\\02.Malote - Inserindo Itens.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Malote\\03.Malote - Excluindo e Editando.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Malote\\03.Malote - Excluindo e Editando.mp4",
       "PackagePath": "staticwebassets\\videos\\CREDIARIO E CAIXA\\Malote\\03.Malote - Excluindo e Editando.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Malote\\04.Malote - Relatorio e Lacre.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Malote\\04.Malote - Relatorio e Lacre.mp4",
       "PackagePath": "staticwebassets\\videos\\CREDIARIO E CAIXA\\Malote\\04.Malote - Relatorio e Lacre.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Malote\\05.Malote - Recebimento de malote.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Malote\\05.Malote - Recebimento de malote.mp4",
       "PackagePath": "staticwebassets\\videos\\CREDIARIO E CAIXA\\Malote\\05.Malote - Recebimento de malote.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Malote\\06.Malote - Retirada dos itens.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Malote\\06.Malote - Retirada dos itens.mp4",
       "PackagePath": "staticwebassets\\videos\\CREDIARIO E CAIXA\\Malote\\06.Malote - Retirada dos itens.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Pix\\01.Parcelamento.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Pix\\01.Parcelamento.mp4",
       "PackagePath": "staticwebassets\\videos\\CREDIARIO E CAIXA\\Pix\\01.Parcelamento.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Pix\\02.Pedido.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\CREDIARIO E CAIXA\\Pix\\02.Pedido.mp4",
       "PackagePath": "staticwebassets\\videos\\CREDIARIO E CAIXA\\Pix\\02.Pedido.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\DEPOSITO\\Protocolo\\01 - Abertura do Protocolo.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\DEPOSITO\\Protocolo\\01 - Abertura do Protocolo.mp4",
       "PackagePath": "staticwebassets\\videos\\DEPOSITO\\Protocolo\\01 - Abertura do Protocolo.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\DEPOSITO\\Protocolo\\02 - Protocolo Loja 21.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\DEPOSITO\\Protocolo\\02 - Protocolo Loja 21.mp4",
       "PackagePath": "staticwebassets\\videos\\DEPOSITO\\Protocolo\\02 - Protocolo Loja 21.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\DEPOSITO\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\DEPOSITO\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4",
       "PackagePath": "staticwebassets\\videos\\DEPOSITO\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\DEPOSITO\\Protocolo\\04 - Protocolo  Loja 22.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\DEPOSITO\\Protocolo\\04 - Protocolo  Loja 22.mp4",
       "PackagePath": "staticwebassets\\videos\\DEPOSITO\\Protocolo\\04 - Protocolo  Loja 22.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\DEPOSITO\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\DEPOSITO\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4",
       "PackagePath": "staticwebassets\\videos\\DEPOSITO\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\E-COMMERCE\\Protocolo\\01 - Abertura do Protocolo.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\E-COMMERCE\\Protocolo\\01 - Abertura do Protocolo.mp4",
       "PackagePath": "staticwebassets\\videos\\E-COMMERCE\\Protocolo\\01 - Abertura do Protocolo.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\E-COMMERCE\\Protocolo\\02 - Protocolo Loja 21.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\E-COMMERCE\\Protocolo\\02 - Protocolo Loja 21.mp4",
       "PackagePath": "staticwebassets\\videos\\E-COMMERCE\\Protocolo\\02 - Protocolo Loja 21.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\E-COMMERCE\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\E-COMMERCE\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4",
       "PackagePath": "staticwebassets\\videos\\E-COMMERCE\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\E-COMMERCE\\Protocolo\\04 - Protocolo  Loja 22.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\E-COMMERCE\\Protocolo\\04 - Protocolo  Loja 22.mp4",
       "PackagePath": "staticwebassets\\videos\\E-COMMERCE\\Protocolo\\04 - Protocolo  Loja 22.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\E-COMMERCE\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\E-COMMERCE\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4",
       "PackagePath": "staticwebassets\\videos\\E-COMMERCE\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FINANCEIRO\\Caixa\\1- Abertura de Caixa.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FINANCEIRO\\Caixa\\1- Abertura de Caixa.mp4",
       "PackagePath": "staticwebassets\\videos\\FINANCEIRO\\Caixa\\1- Abertura de Caixa.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FINANCEIRO\\Caixa\\2- Recebimento de compras.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FINANCEIRO\\Caixa\\2- Recebimento de compras.mp4",
       "PackagePath": "staticwebassets\\videos\\FINANCEIRO\\Caixa\\2- Recebimento de compras.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FINANCEIRO\\Caixa\\3- Recebimento PIX.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FINANCEIRO\\Caixa\\3- Recebimento PIX.mp4",
       "PackagePath": "staticwebassets\\videos\\FINANCEIRO\\Caixa\\3- Recebimento PIX.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FINANCEIRO\\Caixa\\4- Fechamento caixas.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FINANCEIRO\\Caixa\\4- Fechamento caixas.mp4",
       "PackagePath": "staticwebassets\\videos\\FINANCEIRO\\Caixa\\4- Fechamento caixas.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FINANCEIRO\\Pix\\01.Parcelamento.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FINANCEIRO\\Pix\\01.Parcelamento.mp4",
       "PackagePath": "staticwebassets\\videos\\FINANCEIRO\\Pix\\01.Parcelamento.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FINANCEIRO\\Pix\\02.Pedido.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FINANCEIRO\\Pix\\02.Pedido.mp4",
       "PackagePath": "staticwebassets\\videos\\FINANCEIRO\\Pix\\02.Pedido.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FISCAL E CONTABIL\\Malote\\01.Malote - Criando malote.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FISCAL E CONTABIL\\Malote\\01.Malote - Criando malote.mp4",
       "PackagePath": "staticwebassets\\videos\\FISCAL E CONTABIL\\Malote\\01.Malote - Criando malote.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FISCAL E CONTABIL\\Malote\\02.Malote - Inserindo Itens.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FISCAL E CONTABIL\\Malote\\02.Malote - Inserindo Itens.mp4",
       "PackagePath": "staticwebassets\\videos\\FISCAL E CONTABIL\\Malote\\02.Malote - Inserindo Itens.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FISCAL E CONTABIL\\Malote\\03.Malote - Excluindo e Editando.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FISCAL E CONTABIL\\Malote\\03.Malote - Excluindo e Editando.mp4",
       "PackagePath": "staticwebassets\\videos\\FISCAL E CONTABIL\\Malote\\03.Malote - Excluindo e Editando.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FISCAL E CONTABIL\\Malote\\04.Malote - Relatorio e Lacre.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FISCAL E CONTABIL\\Malote\\04.Malote - Relatorio e Lacre.mp4",
       "PackagePath": "staticwebassets\\videos\\FISCAL E CONTABIL\\Malote\\04.Malote - Relatorio e Lacre.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FISCAL E CONTABIL\\Malote\\05.Malote - Recebimento de malote.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FISCAL E CONTABIL\\Malote\\05.Malote - Recebimento de malote.mp4",
       "PackagePath": "staticwebassets\\videos\\FISCAL E CONTABIL\\Malote\\05.Malote - Recebimento de malote.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FISCAL E CONTABIL\\Malote\\06.Malote - Retirada dos itens.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FISCAL E CONTABIL\\Malote\\06.Malote - Retirada dos itens.mp4",
       "PackagePath": "staticwebassets\\videos\\FISCAL E CONTABIL\\Malote\\06.Malote - Retirada dos itens.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FISCAL E CONTABIL\\Protocolo\\01 - Abertura do Protocolo.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FISCAL E CONTABIL\\Protocolo\\01 - Abertura do Protocolo.mp4",
       "PackagePath": "staticwebassets\\videos\\FISCAL E CONTABIL\\Protocolo\\01 - Abertura do Protocolo.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FISCAL E CONTABIL\\Protocolo\\02 - Protocolo Loja 21.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FISCAL E CONTABIL\\Protocolo\\02 - Protocolo Loja 21.mp4",
       "PackagePath": "staticwebassets\\videos\\FISCAL E CONTABIL\\Protocolo\\02 - Protocolo Loja 21.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FISCAL E CONTABIL\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FISCAL E CONTABIL\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4",
       "PackagePath": "staticwebassets\\videos\\FISCAL E CONTABIL\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FISCAL E CONTABIL\\Protocolo\\04 - Protocolo  Loja 22.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FISCAL E CONTABIL\\Protocolo\\04 - Protocolo  Loja 22.mp4",
       "PackagePath": "staticwebassets\\videos\\FISCAL E CONTABIL\\Protocolo\\04 - Protocolo  Loja 22.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\FISCAL E CONTABIL\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\FISCAL E CONTABIL\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4",
       "PackagePath": "staticwebassets\\videos\\FISCAL E CONTABIL\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\GERENTE LOJA\\Caixa\\1- Abertura de Caixa.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\GERENTE LOJA\\Caixa\\1- Abertura de Caixa.mp4",
       "PackagePath": "staticwebassets\\videos\\GERENTE LOJA\\Caixa\\1- Abertura de Caixa.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\GERENTE LOJA\\Caixa\\2- Recebimento de compras.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\GERENTE LOJA\\Caixa\\2- Recebimento de compras.mp4",
       "PackagePath": "staticwebassets\\videos\\GERENTE LOJA\\Caixa\\2- Recebimento de compras.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\GERENTE LOJA\\Caixa\\3- Recebimento PIX.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\GERENTE LOJA\\Caixa\\3- Recebimento PIX.mp4",
       "PackagePath": "staticwebassets\\videos\\GERENTE LOJA\\Caixa\\3- Recebimento PIX.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\GERENTE LOJA\\Caixa\\4- Fechamento caixas.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\GERENTE LOJA\\Caixa\\4- Fechamento caixas.mp4",
       "PackagePath": "staticwebassets\\videos\\GERENTE LOJA\\Caixa\\4- Fechamento caixas.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\GERENTE LOJA\\Malote\\01.Malote - Criando malote.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\GERENTE LOJA\\Malote\\01.Malote - Criando malote.mp4",
       "PackagePath": "staticwebassets\\videos\\GERENTE LOJA\\Malote\\01.Malote - Criando malote.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\GERENTE LOJA\\Malote\\02.Malote - Inserindo Itens.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\GERENTE LOJA\\Malote\\02.Malote - Inserindo Itens.mp4",
       "PackagePath": "staticwebassets\\videos\\GERENTE LOJA\\Malote\\02.Malote - Inserindo Itens.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\GERENTE LOJA\\Malote\\03.Malote - Excluindo e Editando.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\GERENTE LOJA\\Malote\\03.Malote - Excluindo e Editando.mp4",
       "PackagePath": "staticwebassets\\videos\\GERENTE LOJA\\Malote\\03.Malote - Excluindo e Editando.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\GERENTE LOJA\\Malote\\04.Malote - Relatorio e Lacre.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\GERENTE LOJA\\Malote\\04.Malote - Relatorio e Lacre.mp4",
       "PackagePath": "staticwebassets\\videos\\GERENTE LOJA\\Malote\\04.Malote - Relatorio e Lacre.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\GERENTE LOJA\\Malote\\05.Malote - Recebimento de malote.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\GERENTE LOJA\\Malote\\05.Malote - Recebimento de malote.mp4",
       "PackagePath": "staticwebassets\\videos\\GERENTE LOJA\\Malote\\05.Malote - Recebimento de malote.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\GERENTE LOJA\\Malote\\06.Malote - Retirada dos itens.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\GERENTE LOJA\\Malote\\06.Malote - Retirada dos itens.mp4",
       "PackagePath": "staticwebassets\\videos\\GERENTE LOJA\\Malote\\06.Malote - Retirada dos itens.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\GERENTE LOJA\\Pix\\01.Parcelamento.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\GERENTE LOJA\\Pix\\01.Parcelamento.mp4",
       "PackagePath": "staticwebassets\\videos\\GERENTE LOJA\\Pix\\01.Parcelamento.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\GERENTE LOJA\\Pix\\02.Pedido.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\GERENTE LOJA\\Pix\\02.Pedido.mp4",
       "PackagePath": "staticwebassets\\videos\\GERENTE LOJA\\Pix\\02.Pedido.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\01 - Abertura do Protocolo.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\01 - Abertura do Protocolo.mp4",
       "PackagePath": "staticwebassets\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\01 - Abertura do Protocolo.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\02 - Protocolo Loja 21.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\02 - Protocolo Loja 21.mp4",
       "PackagePath": "staticwebassets\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\02 - Protocolo Loja 21.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4",
       "PackagePath": "staticwebassets\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\03 - Continuidade Protocolo Loja 21.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\04 - Protocolo  Loja 22.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\04 - Protocolo  Loja 22.mp4",
       "PackagePath": "staticwebassets\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\04 - Protocolo  Loja 22.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4",
       "PackagePath": "staticwebassets\\videos\\INCLUSAO DE ESTOQUE\\Protocolo\\05 - Continuidade Protocolo Loja 22.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\T.I\\Caixa\\1- Abertura de Caixa.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\T.I\\Caixa\\1- Abertura de Caixa.mp4",
       "PackagePath": "staticwebassets\\videos\\T.I\\Caixa\\1- Abertura de Caixa.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\T.I\\Caixa\\2- Recebimento de compras.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\T.I\\Caixa\\2- Recebimento de compras.mp4",
       "PackagePath": "staticwebassets\\videos\\T.I\\Caixa\\2- Recebimento de compras.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\T.I\\Caixa\\3- Recebimento PIX.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\T.I\\Caixa\\3- Recebimento PIX.mp4",
       "PackagePath": "staticwebassets\\videos\\T.I\\Caixa\\3- Recebimento PIX.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\T.I\\Caixa\\4- Fechamento caixas.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\T.I\\Caixa\\4- Fechamento caixas.mp4",
       "PackagePath": "staticwebassets\\videos\\T.I\\Caixa\\4- Fechamento caixas.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\T.I\\Pix\\01.Parcelamento.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\T.I\\Pix\\01.Parcelamento.mp4",
       "PackagePath": "staticwebassets\\videos\\T.I\\Pix\\01.Parcelamento.mp4"
     },
     {
-      "Id": "E:\\Sites\\SiteVideos\\wwwroot\\videos\\T.I\\Pix\\02.Pedido.mp4",
+      "Id": "D:\\Novo\\WebSite_videos\\wwwroot\\videos\\T.I\\Pix\\02.Pedido.mp4",
       "PackagePath": "staticwebassets\\videos\\T.I\\Pix\\02.Pedido.mp4"
     },
     {

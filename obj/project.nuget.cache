@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z7O2fLtfEyGsrqGijnb7z7d5T/9KLgnXuc46I7cb1jThmjSEC4rFfXpWwd8bewqdGQFkl9CZNiLy9Zi+fatWoQ==",
+  "dgSpecHash": "e7zMQmmuayobqiI1w1p+oHXb7ak+XLbSQDvVZ2bpTyXi87rbiUzbkq4OKnEXYDH/lvfAPX6AI+zNzuLW/KnNDg==",
   "success": true,
-  "projectFilePath": "E:\\Sites\\SiteVideos\\SiteVideos.csproj",
+  "projectFilePath": "D:\\Novo\\WebSite_videos\\SiteVideos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas.albertinazzi.TI-01\\.nuget\\packages\\blazored.video\\1.0.1\\blazored.video.1.0.1.nupkg.sha512",
     "C:\\Users\\Lucas.albertinazzi.TI-01\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.0\\microsoft.aspnetcore.authorization.6.0.0.nupkg.sha512",
